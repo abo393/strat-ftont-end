@@ -1,20 +1,19 @@
 body {
   margin: 0;
 }
-
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 h1 {
-  font-size: 60px;
+  font-size: 65px;
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid gray;
   margin: 0px;
   padding: 20px;
 }
 ol {
-  border-right: 2px solid black;
+  border-right: 1px solid gray;
   width: 160px;
   margin: 0;
   padding: 20px;
